@@ -1,0 +1,25 @@
+button {
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+    margin-top: 30px;
+}
+
+button:hover {
+    background-color: green;
+}
+
+
+
+h1 {
+    font-size: 80px !important;
+    font-family: 'Kanit', sans-serif;
+}
+
+#quote , #author {
+    margin-top: 10px;
+    font-size: 35px;
+    font-weight: 400!important;
+
+}
